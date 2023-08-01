@@ -12,6 +12,51 @@ record_types:
   undefined:
     fill: "#858585"
     stroke: "#858585"
+  Pagès:
+    fill: "#FF0000"
+    stroke: "#FF0000"
+  Collègue:
+    fill: "#00FF00"
+    stroke: "#00FF00"
+  Collaborateur:
+    fill: "#0000FF"
+    stroke: "#0000FF"
+  Famille:
+    fill: "#FFFF00"
+    stroke: "#FFFF00"
+  Opposant:
+    fill: "#00FFFF"
+    stroke: "#00FFFF"
+  Enseignant:
+    fill: "#FF00FF"
+    stroke: "#FF00FF"
+  Chercheur:
+    fill: "#C0C0C0"
+    stroke: "#C0C0C0"
+  psychologie:
+    fill: "#FF0000"
+    stroke: "#FF0000"
+  science de l'information:
+    fill: "#00FF00"
+    stroke: "#00FF00"
+  philosophie:
+    fill: "#0000FF"
+    stroke: "#0000FF"
+  sociologie:
+    fill: "#FFFF00"
+    stroke: "#FFFF00"
+  psychiatrie:
+    fill: "#00FFFF"
+    stroke: "#00FFFF"
+  psychanalyse:
+    fill: "#FF00FF"
+    stroke: "#FF00FF"
+  science de l'éducation:
+    fill: "#C0C0C0"
+    stroke: "#C0C0C0"
+  transdisciplinaire:
+    fill: "#808080"
+    stroke: "#808080"
 link_types:
   undefined:
     stroke: simple
@@ -32,10 +77,14 @@ attraction_vertical: 0
 attraction_horizontal: 0
 views: {}
 chronological_record_meta: created
-record_metas: []
+record_metas:
+  - prenom
+  - nom
+  - genre
+  - pays
 title: Pagèsphère
-author: ""
-description: ""
+author: Olivier Le Deuff
+description: Graphe produit dans le cadre du projet de la Fondation France Berkeley
 keywords: []
 link_symbol: ""
 csl: ""
