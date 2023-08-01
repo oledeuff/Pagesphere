@@ -1,0 +1,47 @@
+select_origin: online
+files_origin: ""
+nodes_origin: ""
+links_origin: ""
+nodes_online: https://docs.google.com/spreadsheets/d/e/2PACX-1vSjT65rnCXJMTK_jS998ueIplDCULuanjliZ_eGNgd9RW1ChnpbTLk1Ln1Fn-_WY1ZDN0gne2A6cQzo/pub?gid=0&single=true&output=csv
+links_online: https://docs.google.com/spreadsheets/d/e/2PACX-1vSjT65rnCXJMTK_jS998ueIplDCULuanjliZ_eGNgd9RW1ChnpbTLk1Ln1Fn-_WY1ZDN0gne2A6cQzo/pub?gid=1233026049&single=true&output=csv
+images_origin: ""
+export_target: ""
+history: true
+focus_max: 2
+record_types:
+  undefined:
+    fill: "#858585"
+    stroke: "#858585"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#e1e1e1"
+record_filters: []
+graph_background_color: "#ffffff"
+graph_highlight_color: "#ff6a6a"
+graph_highlight_on_hover: true
+graph_text_size: 10
+graph_arrows: true
+node_size_method: degree
+node_size: 10
+node_size_max: 20
+node_size_min: 2
+attraction_force: 200
+attraction_distance_max: 250
+attraction_vertical: 0
+attraction_horizontal: 0
+views: {}
+chronological_record_meta: created
+record_metas: []
+title: Pagèsphère
+author: ""
+description: ""
+keywords: []
+link_symbol: ""
+csl: ""
+bibliography: ""
+csl_locale: ""
+css_custom: ""
+devtools: false
+lang: en
+name: ""
