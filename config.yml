@@ -1,9 +1,9 @@
-select_origin: online
-files_origin: ""
+select_origin: directory
+files_origin: "./fiches"
 nodes_origin: ""
 links_origin: ""
-nodes_online: https://docs.google.com/spreadsheets/d/e/2PACX-1vSjT65rnCXJMTK_jS998ueIplDCULuanjliZ_eGNgd9RW1ChnpbTLk1Ln1Fn-_WY1ZDN0gne2A6cQzo/pub?gid=0&single=true&output=csv
-links_online: https://docs.google.com/spreadsheets/d/e/2PACX-1vSjT65rnCXJMTK_jS998ueIplDCULuanjliZ_eGNgd9RW1ChnpbTLk1Ln1Fn-_WY1ZDN0gne2A6cQzo/pub?gid=1233026049&single=true&output=csv
+nodes_online: ""
+links_online: ""
 images_origin: ""
 export_target: ""
 history: true
@@ -13,50 +13,50 @@ record_types:
     fill: "#858585"
     stroke: "#858585"
   Pagès:
-    fill: "#FF0000"
-    stroke: "#FF0000"
+      fill: "#a6cee3"
+      stroke: "#a6cee3"
   Collègue:
-    fill: "#00FF00"
-    stroke: "#00FF00"
+     fill: "#1f78b4"
+     stroke: "#1f78b4"
   Collaborateur:
-    fill: "#0000FF"
-    stroke: "#0000FF"
+     fill: "#b2df8a"
+     stroke: "#b2df8a"
   Famille:
-    fill: "#FFFF00"
-    stroke: "#FFFF00"
+       fill: "#33a02c"
+       stroke: "#33a02c"
   Opposant:
-    fill: "#00FFFF"
-    stroke: "#00FFFF"
-  Enseignant:
-    fill: "#FF00FF"
-    stroke: "#FF00FF"
-  Chercheur:
-    fill: "#C0C0C0"
-    stroke: "#C0C0C0"
-  psychologie:
-    fill: "#FF0000"
-    stroke: "#FF0000"
-  science de l'information:
-    fill: "#00FF00"
-    stroke: "#00FF00"
-  philosophie:
-    fill: "#0000FF"
-    stroke: "#0000FF"
-  sociologie:
-    fill: "#FFFF00"
-    stroke: "#FFFF00"
-  psychiatrie:
-    fill: "#00FFFF"
-    stroke: "#00FFFF"
-  psychanalyse:
-    fill: "#FF00FF"
-    stroke: "#FF00FF"
-  science de l'éducation:
-    fill: "#C0C0C0"
-    stroke: "#C0C0C0"
-  transdisciplinaire:
-    fill: "#808080"
-    stroke: "#808080"
+       fill: "#fb9a99"
+       stroke: "#fb9a99"
+  Influenceur:
+       fill: "#e31a1c"
+       stroke: "#e31a1c"
+  Organisation:
+       fill: "#fdbf6f"
+       stroke: "#fdbf6f"
+  Objet:
+       fill: "#ff7f00"
+       stroke: "#ff7f00"
+  Psychologie:
+       fill: "#cab2d6"
+       stroke: "#cab2d6"
+  Sciences de l'information et de la communication:
+     fill: "#6a3d9a"
+     stroke: "#6a3d9a"
+  Philosophie:
+     fill: "#ffff99"
+     stroke: "#ffff99"
+  Sociologie:
+     fill: "#b15928"
+     stroke: "#b15928"
+  Psychiatrie:
+     fill: "#fbb4ae"
+     stroke: "#fbb4ae"
+  Sciences de l'éducation:
+     fill: "#b3cde3"
+     stroke: "#b3cde3"
+  Transdisciplinaire:
+     fill: "#ccebc5"
+     stroke: "#ccebc5"
 link_types:
   undefined:
     stroke: simple
@@ -78,19 +78,23 @@ attraction_horizontal: 0
 views: {}
 chronological_record_meta: created
 record_metas:
-  - prenom
-  - nom
-  - genre
-  - pays
-title: Pagèsphère
-author: Olivier Le Deuff
-description: Graphe produit dans le cadre du projet de la Fondation France Berkeley
+- Prénom
+- Nom
+- Genre
+- Pays
+- Naissance
+- Décès
+- idref
+
+title: "Pagèsosphère"
+author: "Olivier Le Deuff"
+description: "Le réseau de Robert Pagès"
 keywords: []
-link_symbol: ""
+link_symbol: "☞"
 csl: ""
 bibliography: ""
 csl_locale: ""
-css_custom: ""
+css_custom: "./pages.css"
 devtools: false
 lang: en
 name: ""
