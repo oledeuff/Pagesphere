@@ -28,8 +28,8 @@ record_types:
     fill: "#fb9a99"
     stroke: "#fb9a99"
   Influenceur:
-    fill: "#e31a1c"
-    stroke: "#e31a1c"
+    fill: "#6495ED"
+    stroke: "#6495ED"
   Organisation:
     fill: "#fdbf6f"
     stroke: "#fdbf6f"
@@ -61,6 +61,15 @@ link_types:
   undefined:
     stroke: simple
     color: "#e1e1e1"
+  i:
+    stroke: simple
+    color: "#6495ED"
+  d:
+    stroke: simple
+    color: "#50C878"
+  o:
+    stroke: dash
+    color: "#FF4500"
 record_filters: []
 graph_background_color: "#ffffff"
 graph_highlight_color: "#ff6a6a"
@@ -71,7 +80,7 @@ node_size_method: degree
 node_size: 10
 node_size_max: 20
 node_size_min: 2
-attraction_force: 200
+attraction_force: 210
 attraction_distance_max: 250
 attraction_vertical: 0
 attraction_horizontal: 0

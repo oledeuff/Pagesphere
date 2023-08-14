@@ -14,4 +14,4 @@ tags:
   - psychologie sociale
 ---
 
-Philippe Castel est un professeur à l’université et membre du [[20230810230141]] Laboratoire de psychologie sociale quand il est dirigé par [[20230808194045]] Robert Pagès
+Philippe Castel est professeur à l’université et fut membre du [[20230810230141]] Laboratoire de psychologie sociale quand il est dirigé par [[d:20230808194045]] Robert Pagès qui a d'ailleurs dirigé sa thèse.
