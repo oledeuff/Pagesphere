@@ -19,9 +19,10 @@ Tomás Ibáñez est un militant libertaire, un théoricien anarchiste et un prof
 Après les événements de Mai 1968, IBAÑEZ GRACIA Tomás a été arrêté à Renault-Flins. Suite à cela, il a reçu un ordre d'expulsion de France. Cependant, son statut de réfugié politique lui a permis d'être assigné à résidence en Corrèze plutôt que d'être expulsé.
 
 ## Intervention de Robert Pagès
-Robert Pagès, qui était le directeur du Laboratoire de psychologie sociale de la Sorbonne où Tomás travaillait, a pris des mesures pour  l'aider. Ll'assignation à résidence de Tomás a été levée quelques mois après.
+Robert Pagès, qui était le directeur du Laboratoire de psychologie sociale de la Sorbonne où Tomás travaillait, a pris des mesures pour  l'aider. L'assignation à résidence de Tomás a été levée quelques mois après.
 
 
 Ibáñez a animé la vie du [[20230810230141]] laboratoire de psychologie sociale de [[20230808194045]] Robert Pagès qui va diriger sa thèse.
+Robert Pagès signe la préface  de son ouvrage @pagesRemarquesPouvoirPreface1981
 
 https://maitron.fr/spip.php?article156219, notice IBAÑEZ GRACIA Tomás \[Dictionnaire des anarchistes\] par Marianne Enckell, version mise en ligne le 11 mars 2014, dernière modification le 24 mai 2019.

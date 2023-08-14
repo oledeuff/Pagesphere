@@ -1,5 +1,5 @@
 select_origin: directory
-files_origin: "./fiches"
+files_origin: ./fiches
 nodes_origin: ""
 links_origin: ""
 nodes_online: ""
@@ -13,50 +13,50 @@ record_types:
     fill: "#858585"
     stroke: "#858585"
   Pagès:
-      fill: "#a6cee3"
-      stroke: "#a6cee3"
+    fill: "#a6cee3"
+    stroke: "#a6cee3"
   Collègue:
-     fill: "#1f78b4"
-     stroke: "#1f78b4"
+    fill: "#1f78b4"
+    stroke: "#1f78b4"
   Collaborateur:
-     fill: "#b2df8a"
-     stroke: "#b2df8a"
+    fill: "#b2df8a"
+    stroke: "#b2df8a"
   Famille:
-       fill: "#33a02c"
-       stroke: "#33a02c"
+    fill: "#33a02c"
+    stroke: "#33a02c"
   Opposant:
-       fill: "#fb9a99"
-       stroke: "#fb9a99"
+    fill: "#fb9a99"
+    stroke: "#fb9a99"
   Influenceur:
-       fill: "#e31a1c"
-       stroke: "#e31a1c"
+    fill: "#e31a1c"
+    stroke: "#e31a1c"
   Organisation:
-       fill: "#fdbf6f"
-       stroke: "#fdbf6f"
+    fill: "#fdbf6f"
+    stroke: "#fdbf6f"
   Objet:
-       fill: "#ff7f00"
-       stroke: "#ff7f00"
+    fill: "#ff7f00"
+    stroke: "#ff7f00"
   Psychologie:
-       fill: "#cab2d6"
-       stroke: "#cab2d6"
+    fill: "#cab2d6"
+    stroke: "#cab2d6"
   Sciences de l'information et de la communication:
-     fill: "#6a3d9a"
-     stroke: "#6a3d9a"
+    fill: "#6a3d9a"
+    stroke: "#6a3d9a"
   Philosophie:
-     fill: "#ffff99"
-     stroke: "#ffff99"
+    fill: "#ffff99"
+    stroke: "#ffff99"
   Sociologie:
-     fill: "#b15928"
-     stroke: "#b15928"
+    fill: "#b15928"
+    stroke: "#b15928"
   Psychiatrie:
-     fill: "#fbb4ae"
-     stroke: "#fbb4ae"
+    fill: "#fbb4ae"
+    stroke: "#fbb4ae"
   Sciences de l'éducation:
-     fill: "#b3cde3"
-     stroke: "#b3cde3"
+    fill: "#b3cde3"
+    stroke: "#b3cde3"
   Transdisciplinaire:
-     fill: "#ccebc5"
-     stroke: "#ccebc5"
+    fill: "#ccebc5"
+    stroke: "#ccebc5"
 link_types:
   undefined:
     stroke: simple
@@ -78,23 +78,22 @@ attraction_horizontal: 0
 views: {}
 chronological_record_meta: created
 record_metas:
-- Prénom
-- Nom
-- Genre
-- Pays
-- Naissance
-- Décès
-- idref
-
-title: "Pagèsosphère"
-author: "Olivier Le Deuff"
-description: "Le réseau de Robert Pagès"
+  - Prénom
+  - Nom
+  - Genre
+  - Pays
+  - Naissance
+  - Décès
+  - idref
+title: Pagèsosphère
+author: Olivier Le Deuff
+description: Le réseau de Robert Pagès
 keywords: []
-link_symbol: "☞"
-csl: ""
-bibliography: ""
-csl_locale: ""
-css_custom: "./pages.css"
+link_symbol: ☞
+csl: ./apa-fr.csl
+bibliography: ./bibliorobert.json
+csl_locale: locales.xml
+css_custom: ""
 devtools: false
-lang: en
+lang: fr
 name: ""
