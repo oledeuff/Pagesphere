@@ -52,4 +52,4 @@ Pour les utilisateurs du logiciel Cosma, j'ai rajouté ces précisions dans le f
 ```
 
 Dernière mise à jour. 30 août 2023. Olivier Le Deuff. Oledeuff@gmail.com 
-![le checheur contemplant son graphe](/docs/bd1.jpg)
+![le checheur contemplant son graphe](./docs/bd1.jpg)
