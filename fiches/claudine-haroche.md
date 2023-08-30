@@ -10,7 +10,8 @@ Pays: France
 Naissance: 
 Décès: 
 tags:
-  - 
+  - individu
+  - propriété
 ---
 
-
+Chercheuse qui a également participé à la vie du [[20230810230141]] Laboratoire de psychologie sociale

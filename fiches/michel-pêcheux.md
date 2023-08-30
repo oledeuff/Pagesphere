@@ -15,4 +15,4 @@ tags:
   - philosophie
 ---
 
-Michel Pêcheux étudie la philosophie à l’École Normale Supérieure. Il a également participé aux activités du  [[20230810230141]] Laboratoire de psychologie sociale de [[20230808194045]] Robert Pagès.
+Michel Pêcheux étudie la philosophie à l’École Normale Supérieure. Il a également participé aux activités du  [[20230810230141]] laboratoire de psychologie sociale de [[20230808194045]] Robert Pagès.

@@ -14,5 +14,5 @@ tags:
   - philosophie des sciences
 ---
 
-Georges Canguilhem est philosophe, médecin et résistant. C'est un pionnier de la philosophie des sciences. Après plusieurs années d'enseignement en philosophie dans les lycées, il est nommé professeur de la Sorbonne en 1955 et directeur de l'Institut d'histoire des sciences et des techniques de l'université de Paris. G.Canguilhem est aussi membre du comité national du CNRS de 1960 à 1971.  
-Il est le professeur de [[20230808194045]] Robert Pagès.
+Georges Canguilhem est philosophe, médecin et résistant. C'est un pionnier de la philosophie des sciences. Après plusieurs années d'enseignement en philosophie dans les lycées, il est nommé professeur de la Sorbonne en 1955 et directeur de l'Institut d'histoire des sciences et des techniques de l'université de Paris. Canguilhem est aussi membre du comité national du CNRS de 1960 à 1971.  
+Il fut professeur de [[i:20230808194045]] Robert Pagès.

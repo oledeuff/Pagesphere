@@ -14,4 +14,4 @@ tags:
   - psychologie expérimentale
 ---
 
-Elle est membre du Groupe regard et travaille au laboratoire de psychologie expérimentale.  
+Elle est membre du Groupe Regard et travaille au laboratoire de psychologie expérimentale.  Elle dépose avec [[20230808194045]] Robert Pagès un brevet sur le *Taschiscope* à éclairs lumineux.

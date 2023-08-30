@@ -1,18 +1,18 @@
 ---
-title:  Salah Habib
+title:  Habib Salah
 id: "20230810225808"
 types:
   - Collègue
   - Psychologie
-Prénom: Salah
-Nom: Habib
+Prénom: Habib
+Nom: Salah
 Genre: Homme
 Pays: 
-Naissance: 
+Naissance: 1953
 Décès: 
 tags:
   - légendes
-  - maghreb
+  - Maghreb
   - enfance
   - mysticisme
 ---

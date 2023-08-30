@@ -57,10 +57,13 @@ record_types:
   Transdisciplinaire:
     fill: "#ccebc5"
     stroke: "#ccebc5"
+  Concept:
+    fill: "#f2a5d0"
+    stroke: "#f2a5d0"
 link_types:
   undefined:
     stroke: simple
-    color: "#e1e1e1"
+    color: "#c2c2c2"
   i:
     stroke: simple
     color: "#6495ED"
@@ -74,14 +77,14 @@ record_filters: []
 graph_background_color: "#ffffff"
 graph_highlight_color: "#ff6a6a"
 graph_highlight_on_hover: true
-graph_text_size: 10
+graph_text_size: 11
 graph_arrows: true
 node_size_method: degree
 node_size: 10
 node_size_max: 20
 node_size_min: 2
-attraction_force: 210
-attraction_distance_max: 250
+attraction_force: 220
+attraction_distance_max: 240
 attraction_vertical: 0
 attraction_horizontal: 0
 views: {}
@@ -102,7 +105,7 @@ link_symbol: ☞
 csl: ./apa-fr.csl
 bibliography: ./bibliorobert.json
 csl_locale: locales.xml
-css_custom: ""
+css_custom: "./pages.css"
 devtools: false
 lang: fr
 name: ""

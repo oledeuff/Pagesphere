@@ -14,4 +14,4 @@ tags:
   
 ---
 
-Jean-Pierre Desportes travaille au Laboratoire de Psychologie sociale de la Sorbonne associée au CNRS.   
+Jean-Pierre Desportes collabore  au [[20230810230141]]  laboratoire de psychologie sociale de la Sorbonne associée au CNRS.   

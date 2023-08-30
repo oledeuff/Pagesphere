@@ -13,4 +13,4 @@ tags:
   
 ---
 
-
+Il collabore avec [[20230808194045]] Robert Pagès et produisent en 1983 un article @pagesQuiAcceptonsnousEtre1983 sur le choix de la langue. 

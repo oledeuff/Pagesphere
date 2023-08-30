@@ -14,4 +14,4 @@ tags:
   - mémoire
 ---
 
-Anne-Marie de la Haye a mené durant des années de nombreux travaux sur la mémoire des personnes. Elle a été chercheuse au [[20230810230141]] Laboratoire de psychologie sociale   
+Anne-Marie de la Haye a mené durant des années de nombreux travaux sur la mémoire des personnes. Elle a été chercheuse au [[20230810230141]] laboratoire de psychologie sociale   

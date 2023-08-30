@@ -3,7 +3,6 @@ title: Gilles Pagès
 id: "20230810225732"
 types:
   - Famille
-  - 
 Prénom: Gilles
 Nom: Pagès
 Genre: Homme

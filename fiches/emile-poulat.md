@@ -1,6 +1,6 @@
 ---
 title: Emile Poulat 
-id: "20230810225632.md"
+id: "20230810225632"
 types:
   - Collaborateur
   - Sociologie
