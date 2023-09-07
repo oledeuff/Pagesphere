@@ -4,6 +4,7 @@
 
 Ce document a pour but d'expliquer la constitution du [graphe du réseau social de *Robert Pagès*](https://oledeuff.github.io/Pagesphere/pagesphere.html)
 Le titre du document est une référence aux propos de Suzanne Briet.
+Ce livrable fait partie du projet [*Documentation and Knowledge Infrastructure: The Case of Robert Pagès*](https://fbf.berkeley.edu/publications/documentation-and-knowledge-infrastructure-case-robert-pagès) financé par France-Berkeley Fund
 
 ## Structure du graphe
 Le graphe repose sur un work in progress qui comprend pour l'instant environ une centaine d'entités, principalement des personnes mais auss des organisations ou des concepts.
