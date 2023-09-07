@@ -94,7 +94,7 @@ Although its benefits are clear, the difficulty of using CODOC led to its downfa
 
 ---
 ## A man of concepts
-- Towards a *pageslexis* with Cosma ?
+- Towards a *Pagèslexis* with Cosma ?
 > "Not to forget that, not understanding a single word of the neologisms that my father, the doctor of human sciences Robert P***, used both at home and in other seminars, I had promised him that the day he invented more obscure concepts than the Petit Robert dictionary had common nouns, I would have to commit him immediately, a threat that remained unfulfilled, due to never having the patience to count the unknown words that, by the thousands, had been added in the margins of the dictionaries stacked on his desk." (Yves Pagès, (2001). Le Théoriste. Paris: Verticales.))
 
 ---
@@ -106,7 +106,7 @@ Although its benefits are clear, the difficulty of using CODOC led to its downfa
 
 ---
 # A monolog
--  A document from 1998, an interview with a student in sociology : Gaelle Millet.
+-  A document from june 1998, an interview with a student in sociology : Gaelle Millet.
  - A long monolog
  -He explained his relationship to documentation and 'langages documentaires'
  -There are passages between lucidity and delirium, reference to poetry, and a need to evoke his journey. He told that he forgot the rules of his code (CODOC).
