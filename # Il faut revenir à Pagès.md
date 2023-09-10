@@ -108,8 +108,8 @@ Although its benefits are clear, the difficulty of using CODOC led to its downfa
 # A monolog
 -  A document from june 1998, an interview with a student in sociology : Gaelle Millet.
  - A long monolog
- -He explained his relationship to documentation and 'langages documentaires'
- -There are passages between lucidity and delirium, reference to poetry, and a need to evoke his journey. He told that he forgot the rules of his code (CODOC).
+ - He explained his relationship to documentation and 'langages documentaires'
+ - There are passages between lucidity and delirium, reference to poetry, and a need to evoke his journey. He told that he forgot the rules of his code (CODOC).
  - The end of the document is full of poetry
  *17FP/493-494 Robert Pagès. 'Dossier pagès doc 90-2000'*
 ---
@@ -121,8 +121,8 @@ Although its benefits are clear, the difficulty of using CODOC led to its downfa
 
 ---
 ## A bilingual perspective
->  comme je suis moi-même bilingue à l'origine j'étais un occitanophone avant même d'être un francophone ma langue quotidienne était l'occitan
-- Talks about Esperanto, a language he learned at 20 but rarely used except for "love letters".
+>  comme je suis moi-même bilingue à l'origine, j'étais un occitanophone avant même d'être un francophone. Ma langue quotidienne était l'occitan
+- He mentionned Esperanto, a language he learned at 20 but rarely used except for "love letters".
 
 ---
 
@@ -171,3 +171,37 @@ Although its benefits are clear, the difficulty of using CODOC led to its downfa
 - Bibliothèque Henri Piéron
 *17FP/493-494 Robert Pagès*
 
+---
+
+## Bonus. A poem by Pagès
+
+"Sous un visage etale
+le monde est emballé
+on veut faire sa malle
+chacun va s'en aller
+Lire dans les etoiles
+Où le marc de cafe
+Le Web tisse sa Toile
+en toile d'aragnee
+et les soeurs filandieres
+n'ont amas tant tissé
+et taille des croupières
+au globe apetissé."
+
+
+---
+## translation by ChatGpt
+'''
+Beneath a calm face,
+The world is wrapped up.
+Everyone wants to pack their bags,
+Each one will leave.
+Reading in the stars,
+Or in the coffee grounds,
+The Web weaves its Web,
+Like a spider's web.
+And the spinning sisters,
+Have never woven so much,
+And cut the hindquarters,
+Of the appetizing globe.
+''''
